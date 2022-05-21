@@ -1,0 +1,11 @@
+Testcase: edu.umb.cs680.hw_009.ApfsFileTest
+Test: checkFileA() took 0 milli sec(s)
+Test: checkFileB() took 0 milli sec(s)
+Test: checkFileC() took 0 milli sec(s)
+Test: checkFileD() took 1 milli sec(s)
+Test: checkFileE() took 1 milli sec(s)
+Test: checkFileF() took 1 milli sec(s)
+Test: checkFiles() took 1 milli sec(s)
+Test: checkDirectory() took 2 milli sec(s)
+Test: checkFilesByDirectory() took 1 milli sec(s)
+Tests run: 9, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 13 milli sec(s)

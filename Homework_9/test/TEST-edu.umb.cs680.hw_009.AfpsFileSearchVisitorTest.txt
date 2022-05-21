@@ -1,0 +1,8 @@
+Testcase: edu.umb.cs680.hw_009.AfpsFileSearchVisitorTest
+Test: checkFileA() took 6 milli sec(s)
+Test: checkFileB() took 1 milli sec(s)
+Test: checkFileC() took 1 milli sec(s)
+Test: checkFileD() took 0 milli sec(s)
+Test: checkFileE() took 1 milli sec(s)
+Test: checkFileF() took 1 milli sec(s)
+Tests run: 6, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 15 milli sec(s)
